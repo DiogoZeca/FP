@@ -1,0 +1,1 @@
+   stocks2 = sorted(stocks, key=lambda s: (s[0], -s[4]))
